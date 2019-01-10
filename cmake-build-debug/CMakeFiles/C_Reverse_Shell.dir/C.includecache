@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ayo/CLionProjects/C-Reverse-Shell/main.c
+stdio.h
+-
+sys/socket.h
+-
+sys/types.h
+-
+stdlib.h
+-
+unistd.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+

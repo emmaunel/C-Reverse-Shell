@@ -1,0 +1,3 @@
+/Users/ayo/CLionProjects/C-Reverse-Shell/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ayo/CLionProjects/C-Reverse-Shell/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ayo/CLionProjects/C-Reverse-Shell/cmake-build-debug/CMakeFiles/C_Reverse_Shell.dir
